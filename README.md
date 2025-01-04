@@ -11,4 +11,4 @@ Recipe Preparation: Once a recipe is selected for cooking, it's moved to the "cu
 Changes are reflected immediately in the app, keeping track of the time and calories as recipes are added or removed.
 Built with React, this project enhances users' cooking experiences with an intuitive interface and dynamic recipe management.
 
-## Live Link : 
+## Live Link : https://tranquil-cupcake-a27d66.netlify.app/
