@@ -1,6 +1,6 @@
  [
       {
-        "recipe_image":"../src/assets/1.jpg",
+        "recipe_image":"./1.jpg",
         "recipe_id": "1",
         "recipe_name": "Chicken Stir Fry",
         "short_description": "A delicious stir fry with tender chicken and colorful vegetables.",
@@ -16,7 +16,7 @@
         "calories": "320"
       },
       {
-        "recipe_image": "../src/assets/2.jpg",
+        "recipe_image": "./2.jpg",
         "recipe_id": "2",
         "recipe_name": "Vegetable Soup",
         "short_description": "A hearty vegetable soup full of flavors and nutrients.",
@@ -32,7 +32,7 @@
         "calories": "250 "
       },
       {
-        "recipe_image": "../src/assets/3.jpg",
+        "recipe_image": "./3.jpg",
         "recipe_id": "3",
         "recipe_name": "Beef Tacos",
         "short_description": "Tasty beef tacos with a crunchy shell and fresh toppings.",
@@ -48,7 +48,7 @@
         "calories": "400 "
       },
       {
-        "recipe_image": "../src/assets/4.jpg",
+        "recipe_image": "./4.jpg",
         "recipe_id": "4",
         "recipe_name": "Pasta Carbonara",
         "short_description": "A classic Italian pasta dish with creamy sauce and crispy bacon.",
@@ -64,7 +64,7 @@
         "calories": "550 "
       },
       {
-        "recipe_image": "../src/assets/5.jpg",
+        "recipe_image": "./5.jpg",
         "recipe_id": "5",
         "recipe_name": "Caesar Salad",
         "short_description": "A fresh Caesar salad with crunchy croutons and creamy dressing.",
@@ -79,7 +79,7 @@
         "calories": "200 "
       },
       {
-        "recipe_image": "../src/assets/6.jpg",
+        "recipe_image": "./6.jpg",
         "recipe_id": "6",
         "recipe_name": "Chocolate Cake",
         "short_description": "A rich and moist chocolate cake topped with creamy frosting.",
